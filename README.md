@@ -109,7 +109,7 @@ A set of standard components to help you build amazing emails without having to 
 
 # Integrations
 
-Emails built with React Email can be converted into HTML and sent using any email service provider. Here are some examples:
+Emails built with Svelte Email can be converted into HTML and sent using any email service provider. Here are some examples:
 
 - [Nodemailer](https://github.com/resendlabs/react-email/tree/main/examples/nodemailer)
 - [SendGrid](https://github.com/resendlabs/react-email/tree/main/examples/sendgrid)
